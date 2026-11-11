@@ -3,11 +3,11 @@
 
 Um quiz interativo desenvolvido em Python para praticar lógica de programação e conceitos fundamentais da linguagem.
 
-# Sobre o projeto
+## Sobre o projeto
 
 O QuizCode é um projeto educacional criado para exercitar conhecimentos básicos de Python por meio de perguntas e respostas.
 
-# Funcionalidades
+## Funcionalidades
 
 - Exibição de perguntas e alternativas.
 - Recebimento de respostas do usuário.
@@ -16,11 +16,11 @@ O QuizCode é um projeto educacional criado para exercitar conhecimentos básico
 - Cálculo da pontuação e do aproveitamento.
 - Classificação final do jogador.
 
-# Tecnologias utilizadas 🛠️
+## Tecnologias utilizadas 🛠️
 
 - Versão mais recente do Python.
 
-# Como executar
+## Como executar
 
 1. Instale a versão mais recente do Python..
 2. Faça o download ou clone este repositório.
@@ -31,7 +31,7 @@ O QuizCode é um projeto educacional criado para exercitar conhecimentos básico
 python main.py
 ```
 
-# Objetivo de aprendizagem
+## Objetivo de aprendizagem
 
 Praticar conceitos fundamentais de programação:
 
@@ -42,6 +42,6 @@ Praticar conceitos fundamentais de programação:
 - Funções.
 - Entrada e saída de dados.
 
-# 👩‍💻 Autoria
+## 👩‍💻 Autoria
 
 Desenvolvido como projeto de aprendizagem em Python por Maria Clara Carvalho Alves.
